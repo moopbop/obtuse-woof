@@ -1,0 +1,8 @@
+make a window
+develop smart game loop
+make sprites
+draw sprites on screen
+// sprites will probably be boxes because that's not what's important right now
+move sprite (no physics or collision yet)
+make floor
+physics
